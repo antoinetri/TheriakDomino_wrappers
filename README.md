@@ -7,7 +7,7 @@ The python code TheriakDomino_wrapper_plot_pseudosection.py will basically read 
 
 ![image](https://user-images.githubusercontent.com/14851413/187172630-2010c869-b7eb-4257-8eff-41f9018ed4bd.png)
 
-After a few illustrator editing: 
+After a quick illustrator editing (adjusting size of pt field): 
 
 ![image](https://user-images.githubusercontent.com/14851413/187173452-5efa6aee-0b5e-496d-98e5-c7a1348adf9a.png)
 
